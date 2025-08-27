@@ -1,18 +1,18 @@
 # password-manager
-A simple and secure Password Manager built with [your tech stack, e.g., Java/Python/JavaScript].
+A simple and secure Password Manager built with .
 This project allows users to safely store, retrieve, and manage credentials for multiple accounts in one place.
 
 ✨ Features
 
 🔑 Generate strong, random passwords
 
-🔒 Securely store credentials (with encryption)
+🔒 Securely store credentials 
 
 📂 Organize accounts by category
 
 🔍 Search and retrieve saved passwords quickly
 
-🖥️ User-friendly [CLI/GUI/Web] interface
+🖥️ User-friendly  interface
 
 🛠️ Tech Stack
 
