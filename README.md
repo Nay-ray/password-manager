@@ -17,7 +17,7 @@ This project allows users to safely store, retrieve, and manage credentials for 
 🛠️ Tech Stack
 
 HTNL, CSS, JavaScript
-📌 Use Cases
+
 
 Store personal login credentials securely
 
