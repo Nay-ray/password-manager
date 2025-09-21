@@ -14,7 +14,7 @@ This project allows users to safely store, retrieve, and manage credentials for 
 
 🖥️ User-friendly  interface
 
-🛠️ Tech Stack
+🛠️Tech Stack
 
 HTNL, CSS, JavaScript
 
