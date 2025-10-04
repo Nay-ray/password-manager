@@ -1,4 +1,5 @@
 # password-manager
+
 A simple and secure Password Manager built with .
 This project allows users to safely store, retrieve, and manage credentials for multiple accounts in one place.
 
