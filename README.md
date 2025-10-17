@@ -21,7 +21,6 @@ HTNL, CSS, JavaScript
 
 Store personal login credentials securely
 
-Manage multiple accounts without reusing weak passwords
 
 Generate unique passwords for better security
 <img width="842" height="675" alt="image" src="https://github.com/user-attachments/assets/28bb9133-0762-4d8b-bf71-3787c995bbe1" />
