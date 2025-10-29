@@ -4,7 +4,7 @@
 
 ✨ Features
 
-🔑 Generate strong, random passwords
+ 🔑 Generate strong, random passwords
 
 🔒 Securely store credentials 
 
