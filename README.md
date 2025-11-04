@@ -6,7 +6,7 @@
 
  🔑 Generate strong, random passwords
 
-🔒 Securely store credentials 
+ 🔒 Securely store credentials 
 
 📂 Organize accounts by category
 
