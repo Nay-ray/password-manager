@@ -17,8 +17,6 @@ A simple and secure Password Manager built with .This project allows users to sa
 
 🛠️Tech Stack
 HTNL, CSS, JavaScript
-
-
 Store personal login credentials securely
 
 
