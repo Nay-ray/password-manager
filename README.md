@@ -5,7 +5,6 @@ A simple and secure Password Manager built with .This project allows users to sa
 ✨ Features
 🔑 Generate strong, random passwords
 🔒 Securely store credentials 
-
 📂 Organize accounts by category
 
 🔍 Search and retrieve saved passwords quickly
