@@ -7,7 +7,6 @@ A simple and secure Password Manager built with .This project allows users to sa
 🔒 Securely store credentials 
 📂 Organize accounts by category
 🔍 Search and retrieve saved passwords quickly
-
 🖥️ User-friendly  interface
 
 
