@@ -9,7 +9,6 @@ A simple and secure Password Manager built with .This project allows users to sa
 🔍 Search and retrieve saved passwords quickly
 🖥️ User-friendly  interface
 
-
 #🛠️Tech Stack
 HTNL, CSS, JavaScript
 Store personal login credentials securely
